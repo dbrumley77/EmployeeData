@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeedata\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|solutionrelative:salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeedata\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T14:00:23.496Z",
               "IsPinned": true,
@@ -50,7 +54,7 @@
               "RelativeDocumentMoniker": "Employee.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T14:05:19.61Z",
               "IsPinned": true,
@@ -64,7 +68,7 @@
               "RelativeDocumentMoniker": "HourlyEmployee.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\HourlyEmployee.cs",
               "RelativeToolTip": "HourlyEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T14:09:01.12Z",
               "IsPinned": true,
@@ -78,10 +82,23 @@
               "RelativeDocumentMoniker": "SalaryEmployee.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\SalaryEmployee.cs",
               "RelativeToolTip": "SalaryEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T14:11:45.766Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-10T16:31:51.864Z",
               "EditorCaption": ""
             }
           ]

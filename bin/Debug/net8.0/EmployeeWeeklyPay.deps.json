@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeWeeklyPay/1.0.0": {
+        "runtime": {
+          "EmployeeWeeklyPay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeWeeklyPay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -4,20 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeData
+namespace EmployeeWeeklyPay
 {
-    internal class SalaryEmployee : Employee        //Derived : Base
+    internal class SalaryEmployee : Employee       //Derived : Base
     {
 
         public double YearlySalary { get; set; }        //Property
         public double WeeksWorked { get; set; }
 
-        public override void PayEmployee()      //Implemented inheriated (From Base) abstract method
+        public override void PayEmployee()      //Implemented inheriated abstract method from base
         {
             var weeklySalary = YearlySalary / 52;
-            var paymentAmount = weeklySalary * WeeksWorked;
-            Console.WriteLine($"{Name} is owed {paymentAmount.ToString("C0")}");
+            
+            Console.WriteLine($"{Name} is to be owed {weeklySalary.ToString("C0")} for work performed starting" +
+                $" {StartWeek} till {EndWeek}");
         }
+
+
     }
 
 

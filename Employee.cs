@@ -4,12 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeData
+namespace EmployeeWeeklyPay
 {
     abstract class Employee     //Base Class
     {
 
         public string Name { get; set; }        //Property
+        public DateTime StartWeek { get; set; }
+        public DateTime EndWeek { get; set; }
+
+
 
         public abstract void PayEmployee();
 

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeData.csproj",
-      "projectName": "EmployeeData",
-      "projectPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeData.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeWeeklyPay.csproj",
+      "projectName": "EmployeeWeeklyPay",
+      "projectPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeWeeklyPay.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\obj\\",
       "projectStyle": "PackageReference",
