@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeeWeeklyPay
-build_property.ProjectDir = C:\Users\dougl\OneDrive\Desktop\projects\EmployeeData\
+build_property.ProjectDir = C:\Users\dougl\OneDrive\Desktop\projects\EmployeeWeeklyPay\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

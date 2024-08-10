@@ -15,7 +15,7 @@ namespace EmployeeWeeklyPay
 
 
 
-        public abstract void PayEmployee();
+        public abstract void PayEmployee();     //Abstract Method (Implementation in Derived Class)
 
 
 

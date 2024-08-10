@@ -11,10 +11,11 @@ namespace EmployeeWeeklyPay
         public double HourlyRate { get; set; }      //Property    
         public double HoursWorked { get; set; }
 
-        public override void PayEmployee()      //Implemented inheriated abstract method from base
+        public override void PayEmployee()      //Implemented inheriated Abstract Method from Base Class
         {
             var paymentAmount = HourlyRate * HoursWorked;
-            Console.WriteLine($"{Name} is owed {paymentAmount.ToString("C0")} for the week starting date of {StartWeek} and ending {EndWeek}");
+            Console.WriteLine($"{Name} is owed {paymentAmount.ToString("C0")} for the week " +
+                $"starting date of {StartWeek} and ending {EndWeek}");
         }
     }
 

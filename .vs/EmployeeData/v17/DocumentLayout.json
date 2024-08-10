@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\",
+  "WorkspaceRootPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeeweeklypay\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeedata\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeeweeklypay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeedata\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|solutionrelative:hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeeweeklypay\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeedata\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|solutionrelative:salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeeweeklypay\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|solutionrelative:hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeedata\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeData.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|c:\\users\\dougl\\onedrive\\desktop\\projects\\employeeweeklypay\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E5F20-8288-4541-A41A-A05FC0D9C333}|EmployeeWeeklyPay.csproj|solutionrelative:salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\Program.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T14:00:23.496Z",
               "IsPinned": true,
@@ -48,57 +48,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\Employee.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T14:05:19.61Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HourlyEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\HourlyEmployee.cs",
-              "RelativeDocumentMoniker": "HourlyEmployee.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\HourlyEmployee.cs",
-              "RelativeToolTip": "HourlyEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T14:09:01.12Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SalaryEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\SalaryEmployee.cs",
-              "RelativeDocumentMoniker": "SalaryEmployee.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\SalaryEmployee.cs",
-              "RelativeToolTip": "SalaryEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\HourlyEmployee.cs",
+              "RelativeToolTip": "HourlyEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T14:11:45.766Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T14:09:01.12Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "SalaryEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\SalaryEmployee.cs",
+              "RelativeDocumentMoniker": "SalaryEmployee.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\SalaryEmployee.cs",
+              "RelativeToolTip": "SalaryEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:11:45.766Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "README.txt",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\README.txt",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\README.txt",
               "RelativeDocumentMoniker": "README.txt",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\README.txt",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-10T16:31:51.864Z",
+              "WhenOpened": "2024-08-10T20:12:27.866Z",
               "EditorCaption": ""
             }
           ]

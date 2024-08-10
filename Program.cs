@@ -8,7 +8,7 @@
             
              
             var frank = new HourlyEmployee();       //Instances of HourlyEmployee Class
-            frank.Name = "Frank";                   //Properties of HourlyEmployee Class
+            frank.Name = "Frank";                   //Instance.Properties = Value 
             frank.HourlyRate = 27.50;
             frank.HoursWorked = 40;
             frank.StartWeek = DateTime.Today;
@@ -31,7 +31,7 @@
 
 
             var jeff = new SalaryEmployee();        //Instances of SalaryEmployee Class
-            jeff.Name = "Jeff";                     //Properites of SalaryEmployee Class
+            jeff.Name = "Jeff";                     //Instance.Properites = Value
             jeff.YearlySalary = 45000;
             jeff.WeeksWorked = 52;
             jeff.StartWeek = DateTime.Today;
@@ -51,16 +51,17 @@
             mindy.StartWeek = DateTime.Today;
             mindy.EndWeek = DateTime.Today.AddDays(7);
 
-            var employees = new List<Employee>();       //Instance of List of employees
-            employees.Add(frank);
+            var employees = new List<Employee>();       //Instance of List of Employees
+            employees.Add(frank);                       //Added Instances to List of Employees
             employees.Add(bill);
             employees.Add(nancy);
             employees.Add(jeff);
             employees.Add(alex);
             employees.Add(mindy);
 
-            static void PayEmployee(List<Employee> employees)
-            {
+
+            static void PayEmployee(List<Employee> employees)       //Method to Print Info to Console
+            {                                                       
                 foreach (var item in employees)
                 {
                     item.PayEmployee();

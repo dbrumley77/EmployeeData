@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeWeeklyPay.csproj": {}
+    "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\EmployeeWeeklyPay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeWeeklyPay.csproj": {
+    "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\EmployeeWeeklyPay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeWeeklyPay.csproj",
+        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\EmployeeWeeklyPay.csproj",
         "projectName": "EmployeeWeeklyPay",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\EmployeeWeeklyPay.csproj",
+        "projectPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\EmployeeWeeklyPay.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeData\\obj\\",
+        "outputPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\projects\\EmployeeWeeklyPay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",

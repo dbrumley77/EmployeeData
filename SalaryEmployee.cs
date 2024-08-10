@@ -12,7 +12,7 @@ namespace EmployeeWeeklyPay
         public double YearlySalary { get; set; }        //Property
         public double WeeksWorked { get; set; }
 
-        public override void PayEmployee()      //Implemented inheriated abstract method from base
+        public override void PayEmployee()      //Implemented Inheriated Abstract Method from Base Class
         {
             var weeklySalary = YearlySalary / 52;
             
