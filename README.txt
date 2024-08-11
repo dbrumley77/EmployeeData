@@ -8,7 +8,7 @@ by multiplying hourly payrate by hours worked.
 ***Salary Employees have their gross pay calculated 
 by annual salary divided by yearly weeks.
 
-***NTax Rate will be 6%
+***Tax Rate will be 6%
 
 ***Date and Time range will be for 7 calendar days.
 
