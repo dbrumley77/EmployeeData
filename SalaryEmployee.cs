@@ -12,15 +12,20 @@ namespace EmployeeWeeklyPay
         public double YearlySalary { get; set; }        //Property
         public double WeeksWorked { get; set; }
 
-        public override void PayEmployee()      //Implemented Inheriated Abstract Method from Base Class
+        public override void PayEmployee()      //Implemented Inheriated Abstract Methods from Base Class
         {
             var weeklySalary = YearlySalary / 52;
             
-            Console.WriteLine($"{Name} is to be owed {weeklySalary.ToString("C0")} for work performed starting" +
+            Console.WriteLine($"{Name} will have a gross pay of {weeklySalary.ToString("C")} for work performed starting" +
                 $" {StartWeek} till {EndWeek}");
         }
 
-
+        public override void TaxEmployee()
+        {
+            var grossPay = YearlySalary / 52;
+            var netPay = grossPay - (grossPay * TaxRate);
+            Console.WriteLine($"{Name} will have a net pay of {netPay.ToString("C")} after 6% taxes are deducted from weekly gross pay");
+        }
     }
 
 

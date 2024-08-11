@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace EmployeeWeeklyPay
 {
-    abstract class Employee     //Base Class
+    abstract class Employee : ITaxable   //Base Class : Interface
     {
 
-        public string Name { get; set; }        //Property
+        public string? Name { get; set; }        //Property
         public DateTime StartWeek { get; set; }
         public DateTime EndWeek { get; set; }
+        public double TaxRate { get; set; }
+        public int NetPay { get; set;  }
+        
 
+        public abstract void PayEmployee();     //Abstract Method (Implementation in Derived Classes)
 
-
-        public abstract void PayEmployee();     //Abstract Method (Implementation in Derived Class)
+        public abstract void TaxEmployee();
 
 
 
