@@ -26,6 +26,13 @@ namespace EmployeeWeeklyPay
             var netPay = grossPay - (grossPay * TaxRate);
             Console.WriteLine($"{Name} will have a net pay of {netPay.ToString("C")} after 6% taxes are deducted from weekly gross pay");
         }
+
+        public override string VacationEarned()
+        {
+            string output = $"Salary Employee {Name} has earned 21 Days of Vacation";
+            Console.WriteLine(output);
+            return output;
+        }
     }
 
 

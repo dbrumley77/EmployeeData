@@ -14,6 +14,7 @@
             frank.StartWeek = DateTime.Today;
             frank.EndWeek = DateTime.Today.AddDays(7);
             frank.TaxRate = 0.06;
+            frank.VacationTime = "";
 
             var bill = new HourlyEmployee();
             bill.Name = "Bill";
@@ -22,6 +23,7 @@
             bill.StartWeek = DateTime.Today;
             bill.EndWeek = DateTime.Today.AddDays(7);
             bill.TaxRate = 0.06;
+            bill.VacationTime = "";
 
             var nancy = new HourlyEmployee();
             nancy.Name = "Nancy";
@@ -30,6 +32,7 @@
             nancy.StartWeek = DateTime.Today;
             nancy.EndWeek = DateTime.Today.AddDays(7);
             nancy.TaxRate = 0.06;
+            nancy.VacationTime = "";
 
 
             var jeff = new SalaryEmployee();        //Instances of SalaryEmployee Class
@@ -39,6 +42,7 @@
             jeff.StartWeek = DateTime.Today;
             jeff.EndWeek = DateTime.Today.AddDays(7);
             jeff.TaxRate = 0.06;
+            jeff.VacationTime = "";
 
             var alex = new SalaryEmployee();
             alex.Name = "Alex";
@@ -47,6 +51,7 @@
             alex.StartWeek = DateTime.Today;
             alex.EndWeek = DateTime.Today.AddDays(7);
             alex.TaxRate = 0.06;
+            alex.VacationTime = "";
 
             var mindy = new SalaryEmployee();
             mindy.Name = "Mindy";
@@ -55,6 +60,7 @@
             mindy.StartWeek = DateTime.Today;
             mindy.EndWeek = DateTime.Today.AddDays(7);
             mindy.TaxRate = 0.06;
+            mindy.VacationTime = "";
 
             var employees = new List<Employee>();       //Instance of List of Employees
             employees.Add(frank);                       //Added Instances to List of Employees
@@ -71,6 +77,7 @@
                 {
                     item.PayEmployee();
                     item.TaxEmployee();
+                    item.VacationEarned();
                     Console.WriteLine();
                 }
             }
