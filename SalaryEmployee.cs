@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeWeeklyPay
 {
-    internal class SalaryEmployee : Employee       //Derived : Base
+    internal class SalaryEmployee : Employee       //Derived : Base (Abstract Class)
     {
 
         public double YearlySalary { get; set; }        //Property
@@ -29,13 +29,21 @@ namespace EmployeeWeeklyPay
 
         public override string VacationEarned()
         {
-            string output = $"Salary Employee {Name} has earned 21 Days of Vacation";
+            string output = $"Salary Employee {Name} has been awarded 21 Days of Vacation";
+            Console.WriteLine(output);
+            return output;
+        }
+
+        public override string VacationUsed()
+        {
+            string output = $"Salary Employee {Name} has used {VacayUsed} Days of Vacation this year";
             Console.WriteLine(output);
             return output;
         }
     }
-
-
-
-
 }
+
+
+
+
+

@@ -15,6 +15,7 @@
             frank.EndWeek = DateTime.Today.AddDays(7);
             frank.TaxRate = 0.06;
             frank.VacationTime = "";
+            frank.VacayUsed = 3;
 
             var bill = new HourlyEmployee();
             bill.Name = "Bill";
@@ -24,6 +25,7 @@
             bill.EndWeek = DateTime.Today.AddDays(7);
             bill.TaxRate = 0.06;
             bill.VacationTime = "";
+            bill.VacayUsed = 5;
 
             var nancy = new HourlyEmployee();
             nancy.Name = "Nancy";
@@ -33,6 +35,7 @@
             nancy.EndWeek = DateTime.Today.AddDays(7);
             nancy.TaxRate = 0.06;
             nancy.VacationTime = "";
+            nancy.VacayUsed = 1;
 
 
             var jeff = new SalaryEmployee();        //Instances of SalaryEmployee Class
@@ -43,6 +46,7 @@
             jeff.EndWeek = DateTime.Today.AddDays(7);
             jeff.TaxRate = 0.06;
             jeff.VacationTime = "";
+            jeff.VacayUsed = 5;
 
             var alex = new SalaryEmployee();
             alex.Name = "Alex";
@@ -52,6 +56,7 @@
             alex.EndWeek = DateTime.Today.AddDays(7);
             alex.TaxRate = 0.06;
             alex.VacationTime = "";
+            alex.VacayUsed = 4;
 
             var mindy = new SalaryEmployee();
             mindy.Name = "Mindy";
@@ -61,8 +66,9 @@
             mindy.EndWeek = DateTime.Today.AddDays(7);
             mindy.TaxRate = 0.06;
             mindy.VacationTime = "";
+            mindy.VacayUsed = 8;
 
-            var employees = new List<Employee>();       //Instance of List of Employees
+            var employees = new List<Employee>();       //Creation of List of Employees
             employees.Add(frank);                       //Added Instances to List of Employees
             employees.Add(bill);
             employees.Add(nancy);
@@ -71,13 +77,14 @@
             employees.Add(mindy);
 
 
-            static void PayEmployee(List<Employee> employees)       //Methods Results to Print Info to Console
+            static void PayEmployee(List<Employee> employees)       //Methods Build to Print Info to Console
             {                                                       
                 foreach (var item in employees)
                 {
                     item.PayEmployee();
                     item.TaxEmployee();
                     item.VacationEarned();
+                    item.VacationUsed();
                     Console.WriteLine();
                 }
             }

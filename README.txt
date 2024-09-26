@@ -12,7 +12,8 @@ by annual salary divided by yearly weeks.
 
 ***Date and Time range for pay period will be for 7 calendar days.
 
-***Vacation is declared for Both Salary and Hourly employeees.
+***Vacation allotment is declared for Both Salary and Hourly employeees
+and amount used to date is noted.
 
 
 

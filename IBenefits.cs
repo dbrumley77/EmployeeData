@@ -12,6 +12,8 @@ namespace EmployeeWeeklyPay
 
         public string VacationEarned();
 
+        public string VacationUsed();
+
     }
 
 
